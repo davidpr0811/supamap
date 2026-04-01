@@ -1,3 +1,3 @@
-module supadump
+module supamap
 
 go 1.25.5
