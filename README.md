@@ -9,4 +9,9 @@ once you run the program it will automaticly find the supabase default creds on 
 
 if you find improvements for this project just open a pull request or ask in issues
 
+Plan for future
+- More scanning options
+- Function Enumeration
+- interaction with db 
+
 Disclaimer this tool is only for testing on your own site dont use it on sites that not belong to you
